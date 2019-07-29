@@ -4,3 +4,45 @@
 [submodule "filemaker_memo"]
 	path = filemaker_memo
 	url = https://gist.github.com/noboo/dd95e0f75cfe65e9a21f
+[submodule "fudosan_wp"]
+	path = fudosan_wp
+	url = https://gist.github.com/noboo/5d3f44456ee32450b741404fb8ff0174
+[submodule "cs_shop_wp"]
+	path = cs_shop_wp
+	url = https://gist.github.com/noboo/d4fbac263915fd72f81cce1d7e272320
+[submodule "salon_wp"]
+	path = salon_wp
+	url = https://gist.github.com/noboo/1acf5545850f1ca0e0f2a681dadb9f18
+[submodule "myCRED_wp"]
+	path = myCRED_wp
+	url = https://gist.github.com/noboo/cf1ee99a3ee58e8327e82081dc9aaceb
+[submodule "phpbrew"]
+	path = phpbrew
+	url = https://gist.github.com/noboo/dff73235d96abc2a57688eafcd320755
+[submodule "nodebrew"]
+	path = nodebrew
+	url = https://gist.github.com/noboo/189f48ab3202e11f586c38fb9ba0a7ac
+[submodule "homebrew"]
+	path = homebrew
+	url = https://gist.github.com/noboo/600375b9c541634c594854bd8f906515
+[submodule "homebrew_memo"]
+	path = homebrew_memo
+	url = https://gist.github.com/noboo/19012c19bed2f6f65db8720a882199a4
+[submodule "virtualbox_vagrant"]
+	path = virtualbox_vagrant
+	url = https://gist.github.com/noboo/9e32ad290cd204f585f494fb64f68af5
+[submodule "vagrant"]
+	path = vagrant
+	url = https://gist.github.com/noboo/3d0457438dbd882bae87c0c31d5f610d
+[submodule "laravel"]
+	path = laravel
+	url = https://gist.github.com/noboo/617a2b7344353d5ba78f1bc2cfe38606
+[submodule "laravelmix"]
+	path = laravelmix
+	url = https://gist.github.com/noboo/7eb79324654be68eda1883d015205938
+[submodule "flywheel"]
+	path = flywheel
+	url = https://gist.github.com/noboo/f6ffb5e09914752912d7ae7600137c8e
+[submodule "slim_php"]
+	path = slim_php
+	url = https://gist.github.com/noboo/fd365a11c03382490982c50f9c4f27a6
