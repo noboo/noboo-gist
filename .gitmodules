@@ -1,3 +1,6 @@
 [submodule "slick"]
 	path = slick
 	url = https://gist.github.com/noboo/4fe97d768d80d5f7717be42b2e74ab06
+[submodule "filemaker_memo"]
+	path = filemaker_memo
+	url = https://gist.github.com/noboo/dd95e0f75cfe65e9a21f
